@@ -1,0 +1,9 @@
+../STM32_WPAN/App/flash.c:17:9:Chip_Erase	4
+../STM32_WPAN/App/flash.c:46:9:Write_Enable	3
+../STM32_WPAN/App/flash.c:86:9:Quad_Enable	10
+../STM32_WPAN/App/flash.c:141:9:QSPI_AutoPollingMemReady	2
+../STM32_WPAN/App/flash.c:169:9:Quad_Read	5
+../STM32_WPAN/App/flash.c:208:9:Quad_Write	5
+../STM32_WPAN/App/flash.c:250:9:QSPI_Sector_Erase	4
+../STM32_WPAN/App/flash.c:282:6:update_address	8
+../STM32_WPAN/App/flash.c:339:10:Read_flash_address	9
