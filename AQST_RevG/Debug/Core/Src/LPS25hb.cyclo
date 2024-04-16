@@ -1,0 +1,2 @@
+../Core/Src/LPS25hb.c:10:6:LPS25HB_INIT	1
+../Core/Src/LPS25hb.c:19:9:LPS25HB_GET_DATA	3

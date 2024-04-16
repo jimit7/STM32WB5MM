@@ -1,0 +1,9 @@
+../Core/Src/hs4xxx.c:23:1:_GetErrorString	2
+../Core/Src/hs4xxx.c:34:1:_ComputeCRC	4
+../Core/Src/hs4xxx.c:53:1:HS4xxx_Init	4
+../Core/Src/hs4xxx.c:75:1:HS4xxx_ReadID	2
+../Core/Src/hs4xxx.c:94:1:_ProcessRawResult	2
+../Core/Src/hs4xxx.c:110:1:HS4xxx_Measure	3
+../Core/Src/hs4xxx.c:130:1:HS4xxx_MeasureStart	2
+../Core/Src/hs4xxx.c:145:1:HS4xxx_MeasureRead	2
+../Core/Src/hs4xxx.c:161:1:HS4xxx_MeasureHold	2

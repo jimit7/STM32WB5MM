@@ -1,0 +1,6 @@
+../Core/Src/hs3xxx.c:23:1:_GetErrorString	2
+../Core/Src/hs3xxx.c:33:1:HS3xxx_Init	4
+../Core/Src/hs3xxx.c:59:1:HS3xxx_ReadID	1
+../Core/Src/hs3xxx.c:64:1:HS3xxx_Measure	3
+../Core/Src/hs3xxx.c:80:1:HS3xxx_MeasureStart	1
+../Core/Src/hs3xxx.c:89:1:HS3xxx_MeasureRead	3

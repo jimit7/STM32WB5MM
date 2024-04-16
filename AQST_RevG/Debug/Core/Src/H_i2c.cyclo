@@ -1,0 +1,10 @@
+../Core/Src/H_i2c.c:33:1:_Sleep	1
+../Core/Src/H_i2c.c:41:1:_I2CRead	2
+../Core/Src/H_i2c.c:75:1:_I2CWrite	3
+../Core/Src/H_i2c.c:108:1:_Reset	1
+../Core/Src/H_i2c.c:116:5:HAL__Init	1
+../Core/Src/H_i2c.c:138:1:HAL_Deinit	1
+../Core/Src/H_i2c.c:148:1:HAL_HandleError	2
+../Core/Src/H_i2c.c:166:2:HAL_SetError	2
+../Core/Src/H_i2c.c:178:2:HAL_GetErrorInfo	4
+../Core/Src/H_i2c.c:194:2:HAL_GetErrorString	7

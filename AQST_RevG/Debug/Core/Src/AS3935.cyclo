@@ -1,0 +1,3 @@
+../Core/Src/AS3935.c:9:6:write_i2c_rw	1
+../Core/Src/AS3935.c:18:6:AS3935_Init	1
+../Core/Src/AS3935.c:59:9:AS3935_reading_distance	4

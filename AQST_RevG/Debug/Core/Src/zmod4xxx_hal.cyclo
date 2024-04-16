@@ -1,0 +1,5 @@
+../Core/Src/zmod4xxx_hal.c:24:6:Delay	1
+../Core/Src/zmod4xxx_hal.c:31:1:_i2c_read_reg	2
+../Core/Src/zmod4xxx_hal.c:40:1:_i2c_write_reg	2
+../Core/Src/zmod4xxx_hal.c:50:1:init_hardware	1
+../Core/Src/zmod4xxx_hal.c:66:1:deinit_hardware	1
