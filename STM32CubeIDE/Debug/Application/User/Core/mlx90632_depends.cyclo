@@ -1,0 +1,5 @@
+mlx90632_depends.c:13:9:mlx90632_i2c_read	1
+mlx90632_depends.c:26:9:mlx90632_i2c_read32	1
+mlx90632_depends.c:38:9:mlx90632_i2c_write	1
+mlx90632_depends.c:46:6:usleep	1
+mlx90632_depends.c:54:6:msleep	1

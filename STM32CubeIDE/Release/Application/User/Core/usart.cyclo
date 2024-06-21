@@ -1,0 +1,3 @@
+C:/Users/jimitp/Documents/latest_firmware/WINE_TEMP/Core/Src/usart.c:31:6:MX_LPUART1_UART_Init	5
+C:/Users/jimitp/Documents/latest_firmware/WINE_TEMP/Core/Src/usart.c:74:6:HAL_UART_MspInit	3
+C:/Users/jimitp/Documents/latest_firmware/WINE_TEMP/Core/Src/usart.c:123:6:HAL_UART_MspDeInit	2

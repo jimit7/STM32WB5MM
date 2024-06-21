@@ -1,0 +1,12 @@
+flash.c:17:9:Chip_Erase	4
+flash.c:46:9:Write_Enable	3
+flash.c:86:9:FL_QUADSPI_Init	6
+flash.c:116:9:QSPI_ResetChip	10
+flash.c:234:9:QSPI_Configuration	7
+flash.c:309:9:Quad_Enable	10
+flash.c:364:9:QSPI_AutoPollingMemReady	2
+flash.c:393:9:Quad_Read	5
+flash.c:438:9:Quad_Write	5
+flash.c:491:9:QSPI_Sector_Erase	5
+flash.c:538:6:update_address	11
+flash.c:621:10:Read_flash_address	9

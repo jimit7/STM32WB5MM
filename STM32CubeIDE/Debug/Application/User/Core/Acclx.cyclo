@@ -1,0 +1,4 @@
+Acclx.c:90:6:AccelInit	1
+Acclx.c:113:6:Accel_6D_Init	1
+Acclx.c:139:6:AccelRead	4
+Acclx.c:179:6:Intr_Status	1

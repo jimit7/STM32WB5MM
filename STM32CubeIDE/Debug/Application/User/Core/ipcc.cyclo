@@ -1,0 +1,5 @@
+stm32wbxx_ll_bus.h:744:22:LL_AHB3_GRP1_EnableClock	1
+stm32wbxx_ll_bus.h:798:22:LL_AHB3_GRP1_DisableClock	1
+ipcc.c:30:6:MX_IPCC_Init	2
+ipcc.c:51:6:HAL_IPCC_MspInit	2
+ipcc.c:73:6:HAL_IPCC_MspDeInit	2
