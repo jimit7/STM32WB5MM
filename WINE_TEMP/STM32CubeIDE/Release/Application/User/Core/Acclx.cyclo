@@ -1,0 +1,4 @@
+../Application/User/Core/Acclx.c:90:6:AccelInit	1
+../Application/User/Core/Acclx.c:113:6:Accel_6D_Init	1
+../Application/User/Core/Acclx.c:139:6:AccelRead	4
+../Application/User/Core/Acclx.c:179:6:Intr_Status	1

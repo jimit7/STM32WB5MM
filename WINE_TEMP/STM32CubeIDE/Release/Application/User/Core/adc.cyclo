@@ -1,0 +1,5 @@
+C:/Users/jimitp/Documents/latest_firmware/WINE_TEMP/Core/Src/adc.c:31:6:MX_ADC1_Init	2
+C:/Users/jimitp/Documents/latest_firmware/WINE_TEMP/Core/Src/adc.c:93:6:HAL_ADC_MspInit	4
+C:/Users/jimitp/Documents/latest_firmware/WINE_TEMP/Core/Src/adc.c:155:6:HAL_ADC_MspDeInit	2
+C:/Users/jimitp/Documents/latest_firmware/WINE_TEMP/Core/Src/adc.c:181:6:ADC_Select_Battery	2
+C:/Users/jimitp/Documents/latest_firmware/WINE_TEMP/Core/Src/adc.c:195:6:ADC_Select_Temp	2

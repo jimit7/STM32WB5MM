@@ -1,0 +1,11 @@
+../Application/User/Core/mlx90632_extended_meas.c:56:16:mlx90632_read_temp_ambient_raw_extended	3
+../Application/User/Core/mlx90632_extended_meas.c:85:16:mlx90632_read_temp_object_raw_extended	9
+../Application/User/Core/mlx90632_extended_meas.c:135:9:mlx90632_read_temp_raw_extended	6
+../Application/User/Core/mlx90632_extended_meas.c:168:9:mlx90632_read_temp_raw_extended_burst	3
+../Application/User/Core/mlx90632_extended_meas.c:188:8:mlx90632_preprocess_temp_ambient_extended	1
+../Application/User/Core/mlx90632_extended_meas.c:198:8:mlx90632_preprocess_temp_object_extended	1
+../Application/User/Core/mlx90632_extended_meas.c:209:8:mlx90632_calc_temp_ambient_extended	1
+../Application/User/Core/mlx90632_extended_meas.c:246:15:mlx90632_calc_temp_object_iteration_extended	1
+../Application/User/Core/mlx90632_extended_meas.c:269:8:mlx90632_calc_temp_object_extended	2
+../Application/User/Core/mlx90632_extended_meas.c:301:9:mlx90632_set_meas_type	7
+../Application/User/Core/mlx90632_extended_meas.c:343:9:mlx90632_get_meas_type	5

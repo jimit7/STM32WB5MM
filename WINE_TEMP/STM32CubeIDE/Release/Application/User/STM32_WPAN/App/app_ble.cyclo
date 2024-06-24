@@ -1,0 +1,12 @@
+C:/Users/jimitp/Documents/latest_firmware/WINE_TEMP/STM32_WPAN/App/app_ble.c:1101:13:Adv_Cancel	2
+C:/Users/jimitp/Documents/latest_firmware/WINE_TEMP/STM32_WPAN/App/app_ble.c:1211:13:BLE_UserEvtRx	1
+C:/Users/jimitp/Documents/latest_firmware/WINE_TEMP/STM32_WPAN/App/app_ble.c:1231:13:BLE_StatusNot	3
+C:/Users/jimitp/Documents/latest_firmware/WINE_TEMP/STM32_WPAN/App/app_ble.c:1044:16:BleGetBdAddress	2
+C:/Users/jimitp/Documents/latest_firmware/WINE_TEMP/STM32_WPAN/App/app_ble.c:1000:13:Adv_Request.constprop	1
+C:/Users/jimitp/Documents/latest_firmware/WINE_TEMP/STM32_WPAN/App/app_ble.c:263:6:APP_BLE_Init	4
+C:/Users/jimitp/Documents/latest_firmware/WINE_TEMP/STM32_WPAN/App/app_ble.c:415:28:SVCCTL_App_Notification	8
+C:/Users/jimitp/Documents/latest_firmware/WINE_TEMP/STM32_WPAN/App/app_ble.c:679:22:APP_BLE_Get_Server_Connection_Status	1
+C:/Users/jimitp/Documents/latest_firmware/WINE_TEMP/STM32_WPAN/App/app_ble.c:1190:6:hci_notify_asynch_evt	1
+C:/Users/jimitp/Documents/latest_firmware/WINE_TEMP/STM32_WPAN/App/app_ble.c:1197:6:hci_cmd_resp_release	1
+C:/Users/jimitp/Documents/latest_firmware/WINE_TEMP/STM32_WPAN/App/app_ble.c:1204:6:hci_cmd_resp_wait	1
+C:/Users/jimitp/Documents/latest_firmware/WINE_TEMP/STM32_WPAN/App/app_ble.c:1270:6:SVCCTL_ResumeUserEventFlow	1
